@@ -1,4 +1,4 @@
-body{
+.main-body {
     margin: 2%;
     text-align: center;
 }
@@ -21,4 +21,8 @@ th {
 
 .expectations {
     text-align: left;
+}
+
+.whiz-body {
+    margin: 0% 15%;
 }
